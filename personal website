@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>John Doe - Personal Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Prerna Patro</h1>
+  </header>
+
+  <main>
+    <h2>About Me</h2>
+    <p>Hello! I'm Prerana Patro, a passionate individual with a diverse set of skills and interests. I love learning new things and exploring the possibilities of technology.</p>
+
+    <h2>Strengths</h2>
+    <ul>
+      <li>Web Development</li>
+      <li>Problem Solving</li>
+      <li>Creative Thinking</li>
+      <li>Attention to Detail</li>
+      <li>Collaboration</li>
+    </ul>
+
+    <h2>Interests</h2>
+    <ul>
+    <li>Python</li>
+    <li>Cloud computing</li>
+    <li>Travelling</li>
+    <li>Listening music</li>
+    
+      
+    </ul>
+  </main>
+
+  <footer>
+    &copy; 2023 Prerana Patro. All rights reserved.
+  </footer>
+</body>
+</html>
